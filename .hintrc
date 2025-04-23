@@ -1,0 +1,9 @@
+{
+  "extends": ["development"],
+  "hints": {
+    "doctype-first": "off",
+    "tag-pair": "off",
+    "meta-viewport": "off",
+    "no-inline-styles": "off"
+  }
+}
